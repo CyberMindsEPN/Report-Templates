@@ -1,4 +1,4 @@
-Reportes de Ciberseguridad
+# Reportes de Ciberseguridad
 
 Repositorio de plantillas estandarizadas en Markdown para documentación de laboratorios, auditorías, simulaciones y competiciones CTF.
 
